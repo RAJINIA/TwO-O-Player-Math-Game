@@ -1,0 +1,14 @@
+player 1 calls questions class
+player 2 calls questions class
+
+generate random number class
+
+question class generate random questions by using random number class and add
+
+user input answer
+
+verify answer statement and correct answer
+
+if statement to verify score and print game over or call next player
+
+the score variable on the class and prompt the next player
